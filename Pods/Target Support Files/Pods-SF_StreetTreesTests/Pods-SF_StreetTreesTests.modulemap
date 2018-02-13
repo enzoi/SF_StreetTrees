@@ -1,0 +1,6 @@
+framework module Pods_SF_StreetTreesTests {
+  umbrella header "Pods-SF_StreetTreesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
