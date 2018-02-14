@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -21,11 +21,11 @@
 /* Begin PBXFileReference section */
 		01BB898970115E9816E052D9E5E63BB7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		02B128E8C534CC4556F8A6F8928A20D3 /* Pods-SF_StreetTrees.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SF_StreetTrees.release.xcconfig"; sourceTree = "<group>"; };
-		032E2DE02014C847343B37AC49FBC332 /* Pods_SF_StreetTrees.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SF_StreetTrees.framework; path = "Pods-SF_StreetTrees.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		032E2DE02014C847343B37AC49FBC332 /* Pods_SF_StreetTrees.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SF_StreetTrees.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		08F1229163C7F5E61C7C4B361510F11C /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMaps.framework; path = Maps/Frameworks/GoogleMaps.framework; sourceTree = "<group>"; };
 		0D11C5E37C656B19ED3F631838444B96 /* Pods-SF_StreetTreesTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SF_StreetTreesTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		1928EE70C3A350C130F6A3BC1DF8EAF2 /* Pods_SF_StreetTreesTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SF_StreetTreesTests.framework; path = "Pods-SF_StreetTreesTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		196E8D67C262197CB99F68FAE25CD48C /* Pods-SF_StreetTrees.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SF_StreetTrees.modulemap"; sourceTree = "<group>"; };
+		1928EE70C3A350C130F6A3BC1DF8EAF2 /* Pods_SF_StreetTreesTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SF_StreetTreesTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		196E8D67C262197CB99F68FAE25CD48C /* Pods-SF_StreetTrees.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SF_StreetTrees.modulemap"; sourceTree = "<group>"; };
 		1C6200385182862E9168588E60B1CD37 /* GoogleMaps.bundle */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
 		294F805F209ABCECC97442EA5551B1BC /* Pods-SF_StreetTreesTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SF_StreetTreesTests-resources.sh"; sourceTree = "<group>"; };
 		2ABC88435B4BC4942F8B93C2466B9FDF /* Pods-SF_StreetTreesUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SF_StreetTreesUITests-dummy.m"; sourceTree = "<group>"; };
@@ -37,13 +37,13 @@
 		5BE5EDE85D66DD6BBBE779651EDEB700 /* Pods-SF_StreetTreesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SF_StreetTreesTests.release.xcconfig"; sourceTree = "<group>"; };
 		5C93BE21244395AA7DC812E820D0E142 /* Pods-SF_StreetTrees-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SF_StreetTrees-acknowledgements.plist"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		66638433AD5E1FC0F5650E53C4562A39 /* Pods_SF_StreetTreesUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SF_StreetTreesUITests.framework; path = "Pods-SF_StreetTreesUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		68D90F3250A04A1A3E86B79A3EAFA616 /* Pods-SF_StreetTreesUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SF_StreetTreesUITests.modulemap"; sourceTree = "<group>"; };
+		66638433AD5E1FC0F5650E53C4562A39 /* Pods_SF_StreetTreesUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SF_StreetTreesUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		68D90F3250A04A1A3E86B79A3EAFA616 /* Pods-SF_StreetTreesUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SF_StreetTreesUITests.modulemap"; sourceTree = "<group>"; };
 		70324FDF1FBB41BEA92DE76E00BD3E96 /* GooglePlaces.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GooglePlaces.framework; path = Frameworks/GooglePlaces.framework; sourceTree = "<group>"; };
 		84B84E45C7AA8296F660FC6CBC03B57A /* Pods-SF_StreetTreesUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SF_StreetTreesUITests-frameworks.sh"; sourceTree = "<group>"; };
 		8860B1776FA295789E1B5FDBB3AC68E9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F23738004AA9B25D8ED82A5ABDB1099 /* Pods-SF_StreetTreesUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SF_StreetTreesUITests-umbrella.h"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		97F380FAD536E36A22BF9FEB42F82ECB /* Pods-SF_StreetTrees-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SF_StreetTrees-acknowledgements.markdown"; sourceTree = "<group>"; };
 		987750BE12B66A8FD91E30EA2FA367F8 /* Pods-SF_StreetTrees-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SF_StreetTrees-dummy.m"; sourceTree = "<group>"; };
 		9D2A90C53095F49750078C2C0ACBD48B /* Pods-SF_StreetTrees-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SF_StreetTrees-umbrella.h"; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 		C34396A84B266B77174501207605AE2F /* Pods-SF_StreetTreesUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SF_StreetTreesUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D4F91621EF92CD8E8549460BD22349BC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DAB8D8C71D1468009302A345399A7176 /* Pods-SF_StreetTreesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SF_StreetTreesTests.debug.xcconfig"; sourceTree = "<group>"; };
-		DC696FA82EF88EA4CCDDAA2A6A68BF35 /* Pods-SF_StreetTreesTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-SF_StreetTreesTests.modulemap"; sourceTree = "<group>"; };
+		DC696FA82EF88EA4CCDDAA2A6A68BF35 /* Pods-SF_StreetTreesTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-SF_StreetTreesTests.modulemap"; sourceTree = "<group>"; };
 		EAD2F4F4B7F87C5B419A140ADCD9CC95 /* Pods-SF_StreetTreesUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SF_StreetTreesUITests-resources.sh"; sourceTree = "<group>"; };
 		F52A58BCC82656F3BC40E5A216FE5760 /* Pods-SF_StreetTreesUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SF_StreetTreesUITests-acknowledgements.plist"; sourceTree = "<group>"; };
 		F8EE725ABE1BDADB6F8E8A0F5EF42C26 /* Pods-SF_StreetTreesTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SF_StreetTreesTests-frameworks.sh"; sourceTree = "<group>"; };
@@ -96,7 +96,6 @@
 				475420FA59EFC8377CF994A338979247 /* Frameworks */,
 				09DB508F39D8BE758EA4A7B9047268E9 /* Resources */,
 			);
-			name = GooglePlaces;
 			path = GooglePlaces;
 			sourceTree = "<group>";
 		};
@@ -114,7 +113,6 @@
 				B2F22323EA3B1ADB4F96376E3F709A68 /* Base */,
 				488E301C4ACDDA928635C4886F5F6158 /* Maps */,
 			);
-			name = GoogleMaps;
 			path = GoogleMaps;
 			sourceTree = "<group>";
 		};
@@ -366,7 +364,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 0920;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -533,7 +531,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -541,15 +541,21 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_DEBUG=1",
@@ -653,7 +659,9 @@
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
@@ -661,14 +669,20 @@
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"POD_CONFIGURATION_RELEASE=1",
 					"$(inherited)",
